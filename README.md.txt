@@ -1,5 +1,3 @@
-Voici un exemple de fichier `README.md` que tu peux utiliser pour ton dépôt GitHub. Ce fichier explique brièvement le projet, comment l'utiliser, et fournit quelques informations supplémentaires :
-
 ```markdown
 # Ashley Money
 
